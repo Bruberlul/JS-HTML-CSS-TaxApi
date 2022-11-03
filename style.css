@@ -1,0 +1,22 @@
+.tax-container {
+    background: #FFF;
+    text-align: center;
+    font-size: 25px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.final_amount{
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.initial_amount{
+    font-size: 50px;
+    margin: 0;
+    font-weight: bold;
+}
+
+
+
